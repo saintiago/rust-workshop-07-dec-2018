@@ -1,5 +1,5 @@
 ## Workshop
-It shows how to serialize and deserialize struct to .json
+It shows how to serialize and deserialize struct to and from .json
 and how to work with files
 
 ### Building
